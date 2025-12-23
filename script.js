@@ -1,7 +1,7 @@
 // 1. Initialize Zod from the CDN global object
 const { z } = window.Zod;
 
-const API_KEY = 'YOUR_OPENWEATHER_API_KEY'; // Replace with your real key
+const API_KEY = 'b2435f97a90d41160c470e21ecdab717'; // Replace with your real key
 
 // 2. Define the Schema (The Shield)
 // This strictly defines what data we allow into our app
